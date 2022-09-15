@@ -17,13 +17,13 @@ $ python evaluation.py \
         --train_corpus_file examples/train.tsv \
         --subword_token Ġ
 
-bleu-1 -> 28.27467233044941
-bleu-2 -> 19.01298617089923
-bleu-3 -> 13.851299856516366
-bleu-4 -> 10.35376730261862
-distinct-1 -> 69.23076923076923
-distinct-2 -> 78.26086956521739
-entropy -> 6.245005017964289
+> bleu-1 -> 28.27467233044941
+> bleu-2 -> 19.01298617089923
+> bleu-3 -> 13.851299856516366
+> bleu-4 -> 10.35376730261862
+> distinct-1 -> 69.23076923076923
+> distinct-2 -> 78.26086956521739
+> entropy -> 6.245005017964289
 ```
 > **Note**<br>
 > - reference_file:  <br>
