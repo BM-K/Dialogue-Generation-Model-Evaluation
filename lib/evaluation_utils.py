@@ -24,7 +24,6 @@ import math
 import tensorflow as tf
 
 from lib.evaluation_scripts import bleu
-#from lib.evaluation_scripts import rouge
 from lib.evaluation_scripts import tokens2wordlevel
 from collections import Counter
 
