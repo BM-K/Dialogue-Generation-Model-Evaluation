@@ -1,5 +1,5 @@
 # README
-Dialogue generation automatic evaluation metric used by ACL 2020 Paper "[Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness](https://aclanthology.org/2020.acl-main.515/)".
+Automatic evaluation code for measuring dialogue generation model performance used by ACL 2020 Paper "[Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness](https://aclanthology.org/2020.acl-main.515/)".
 
 ## Available Metric
 - BLEU-N
