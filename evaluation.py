@@ -4,8 +4,8 @@ from multiprocessing import Pool
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--reference_file", type=str, default="examples/reference.tsv")
-    parser.add_argument("--hypothesis_file", type=str, default="examples/hypothesis.tsv")
+    parser.add_argument("--reference_file", type=str, default="examples/reference.txt")
+    parser.add_argument("--hypothesis_file", type=str, default="examples/hypothesis.txt")
     parser.add_argument("--train_corpus_file", type=str, default="examples/train.tsv")
     parser.add_argument("--subword_token", type=str, default="Ġ")
     args = parser.parse_args()
